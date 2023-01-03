@@ -1,8 +1,8 @@
-// import * as React from "react";
-// import Button from "../Button";
+import * as React from "react";
+import DataTableCell from "../DataTableCell"
 
-// export default (
-//   <Button
-//     uxpId="button"
-//   >hello</Button>
-// );
+export default (
+    <DataTableCell
+        uxpId="data-table-cell-1"
+    >Data Table Cell</DataTableCell>
+);

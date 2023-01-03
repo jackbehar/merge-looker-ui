@@ -8,6 +8,7 @@ module.exports = {
           'src/components/DataTable/DataTable.js',
           'src/components/DataTableItem/DataTableItem.js',
           'src/components/DataTableCell/DataTableCell.js',
+          'src/components/Heading/Heading.tsx',
         ],
       },
     ],

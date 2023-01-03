@@ -1,6 +1,6 @@
 const boilerplateTheme = {
   colors: {
-    key: 'hotpink',
+    // key: 'hotpink',
   }
 };
 

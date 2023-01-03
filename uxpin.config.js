@@ -7,6 +7,7 @@ module.exports = {
           'src/components/Button/Button.js',
           'src/components/DataTable/DataTable.js',
           'src/components/DataTableItem/DataTableItem.js',
+          'src/components/DataTableCell/DataTableCell.js',
         ],
       },
     ],

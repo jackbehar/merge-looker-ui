@@ -1,8 +1,7 @@
 import React from "react";
-import ButtonM from 'devextreme-react/button';
-import { Properties } from "devextreme/ui/button";
+import { Button as ButtonM, ButtonBaseProps } from '@looker/components'
 
-export default function Button(props: Properties) {
+export default function Button(props: ButtonBaseProps) {
   return (
     <ButtonM {...props}/>
   );

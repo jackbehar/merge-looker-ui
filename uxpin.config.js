@@ -4,8 +4,9 @@ module.exports = {
       {
         name: 'General',
         include: [
-          'src/components/Button/Button.tsx',
-          'src/components/CheckBox/CheckBox.tsx',
+          'src/components/Button/Button.js',
+          'src/components/DataTable/DataTable.js',
+          'src/components/DataTableItem/DataTableItem.js',
         ],
       },
     ],

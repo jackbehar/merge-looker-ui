@@ -1,6 +1,6 @@
-# Looke UI Starter Merge Boilerplate
+# Looker UI Starter Merge Boilerplate
 
-A few components have been integrated. Please see Badge and Heading for TS examples
+A few components have been integrated. Please see Badge and Heading for TS examples.
 
 - Install boilerplate:
   `yarn install`
